@@ -3,13 +3,13 @@
 # per Liter.
 
 
-g=eval (input("Favor de entrar la cantidad de galones de gasolina deseados:  "))
-c=eval (input("Favor de entrar el precio de la gasolina en centavos por Litro:  "))
+g=eval (input("Please enter the number of gallons of gasoline desired:  "))
+c=eval (input("Please enter the price of gasoline in cents per Liter:  "))
 
 h=g*c*0.03785411784
 
 h=round(h,2)
 
-print("Favor de pagar:  $",h)
+print("Please pay:  $",h)
 
 input()
