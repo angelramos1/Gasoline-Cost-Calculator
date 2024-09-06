@@ -21,15 +21,15 @@ Implemented a function to convert gallons to liters and then calculate the exact
 
 <p align="center">
 Launch the Program: <br/>
-<img src="https://imgur.com/qXAnl4a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qXAnl4a.png" height="80%" width="80%" alt="Launch the Program"/>
 <br />
 <br />
 Enter the number of gallons of gasoline desired:  <br/>
-<img src="https://imgur.com/uPDp2lZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uPDp2lZ.png" height="80%" width="80%" alt="Enter the number of gallons of gasoline desired"/>
 <br />
 <br />
 Please pay: <br/>
-<img src="https://imgur.com/2Cbuq1n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2Cbuq1n.png" height="80%" width="80%" alt="Please pay"/>
 <br />
 <br />
 
